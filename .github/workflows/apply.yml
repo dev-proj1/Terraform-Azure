@@ -4,7 +4,7 @@ on: [workflow_dispatch]
 
 defaults:
   run:
-    working-directory: ./Getting Started Blog Post
+    working-directory: ./Web-Server-IIS-DemoLab
 
 jobs:
   terraform:
